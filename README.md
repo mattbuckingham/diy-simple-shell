@@ -1,0 +1,1 @@
+this repo is a series of bash scripts to replicate some basic commandline tasks
