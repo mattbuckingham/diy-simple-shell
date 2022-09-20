@@ -1,1 +1,1 @@
-A script to print the current working directory 
+A collection of basic scripts to perform comandline tasks
