@@ -1,0 +1,1 @@
+This is a collection of scripts pertaining to I/O redirections and filters
