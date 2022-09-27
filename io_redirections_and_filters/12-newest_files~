@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -at | head -n 13 | tail | cat

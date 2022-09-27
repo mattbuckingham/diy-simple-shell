@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -at | head -n 12 | tail | cat
+ls -t | head -n 12 | tail | cat
