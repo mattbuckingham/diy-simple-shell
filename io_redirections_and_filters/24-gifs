@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./ -iname "*.gif" |rev| grep 'fig.' |cut -d '/' -f 1|rev| cut -d '.' -f 1
