@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -iname "*.gif" |rev| cut -d '/' -f 1|rev| cut -d '.' -f 1
+find -f ./ -iname "*.gif" |rev| cut -d '/' -f 1|rev| cut -d '.' -f 1
