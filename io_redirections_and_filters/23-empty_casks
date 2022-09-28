@@ -1,3 +1,2 @@
 #!/bin/bash
 find /run/ -empty | rev | cut -d '/' -f 1 | rev
-
