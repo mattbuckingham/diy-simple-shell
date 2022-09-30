@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "%.2f \n"
+\0;136;0c#!/bin/bash
+printf "%.2f \n" $NUM
