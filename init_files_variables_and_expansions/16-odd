@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n | grep -v \d*[02468] | cut -f 2
