@@ -1,2 +1,0 @@
-#!/bin/bash
-grep -B 0 ':x' /etc/passwd | cut -d ":" -f 1 -f 6

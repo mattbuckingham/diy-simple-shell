@@ -1,3 +1,0 @@
-#!/bin/bash
-es
-cut -d $'\t' -f1 | sort | uniq -c | sort -nr | tail -n 11 |rev |cut -d ' ' -f1

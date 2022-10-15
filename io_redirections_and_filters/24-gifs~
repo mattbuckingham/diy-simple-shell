@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -al |rev| grep 'dm.' |cut -d ' ' -f 1|rev| cut -d '.' -f
